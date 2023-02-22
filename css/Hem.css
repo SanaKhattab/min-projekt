@@ -6,7 +6,7 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url("bilden.jpg");
+  background-image: url("../img/bilden.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0px 110px;
